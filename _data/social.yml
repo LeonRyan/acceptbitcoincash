@@ -10,6 +10,16 @@ websites:
   img: badoo.png
   bch: false
   twitter: Badoo
+- name: BCH Club
+  url: https://bch.club/
+  img: BCHClub.png
+  bch: true
+  btc: false
+  othercrypto: false
+  email_address: hongli.wang@bch.club
+  region: as
+  country: CN
+  doc: https://bch.club/index.php?app=team&mod=Forum&act=detail&topic_id=215&team_id=1
 - name: Bitly
   url: https://bitly.com/
   img: bitly.png
@@ -99,10 +109,10 @@ websites:
   url: https://honest.cash/
   img: honest-cash.png
   twitter: honest_cash
-  bch: yes
-  bsv: no
-  btc: no
-  othercrypto: no
+  bch: true
+  bsv: false
+  btc: false
+  othercrypto: false
   doc: https://honest.cash/honest_cash/honestcash-wallet-update-132
   keywords:
   - blog
